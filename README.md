@@ -1,7 +1,6 @@
 - 👋 Hi, I am Deniz Deviren 
 - 👀 I have an interest in cyber security and application development.
 - 🌱 I'm currently trying to learn Linux operating systems. 
-- 💞️ 
 - 📫 devirendeniz21@gmail.com You can reach me through my e-mail address.
 
 <!---
